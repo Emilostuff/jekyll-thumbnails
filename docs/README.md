@@ -6,7 +6,7 @@ A Jekyll plugin to replace images with a lower resolution thumbnail for optimize
 In gemfile:
 
 ```
-gem 'jekyll-thumbnail', git: 'https://github.com/Emilostuff/jekyll-thumbnails', group: :jekyll_plugins
+gem 'jekyll-thumbnails', git: 'https://github.com/Emilostuff/jekyll-thumbnails', group: :jekyll_plugins
 ```
 
 # Usage
